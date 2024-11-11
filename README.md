@@ -1,4 +1,4 @@
-# Toneteller - Second Place Winner of HACKed 2023
+# Toneteller - Second Place Winner of hackED 2023
 Toneteller is a web application and chrome extension that uses machine learning and artificial intelligence to perform sentiment analysis on the text that a user has entered. Our application returns the emotion that the text is attempting to convey, giving the user more clarity regarding the intentions of the message.
 
 Link to our Devpost page:
